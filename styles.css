@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  background-color: #f0f4f8;
+  padding: 10px 20px;
+  border-bottom: 2px solid #ccc;
+}
+
+.logo {
+  height: 60px;
+  margin-right: 20px;
+}
+
+.app-header h1 {
+  font-size: 24px;
+  color: #2c3e50;
+}
+
+main {
+  padding: 20px;
+}
